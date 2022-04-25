@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benhur Stephen Kumar
+- 👋 Hi, I’m Benhur Stephen
 - 👀 I’m interested in playing piano, coding and exploring new things everyday.
 - 🌱 I’m addicted to learning and growing everyday.
 
