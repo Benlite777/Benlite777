@@ -1,6 +1,6 @@
 - 👋 "Hello, I'm Benhur Stephen, a passionate learner and programmer.
 - 👀 I enjoy playing piano, exploring new things, and, most of all, coding.
-- 🌱 I am always seeking new challenges and opportunities to grow both personally and professionally. I am highly motivated and committed to continually expanding my          knowledge and skills in software development. I believe that learning is a never-ending process and that there is always something new to discover. 
+- 🌱 I am always seeking new challenges and opportunities to grow both personally and professionally. I am highly motivated and committed to continually expanding my          knowledge and skills in software development. 
 
 
 <!---
