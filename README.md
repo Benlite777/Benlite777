@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>- 🎓 AI & ML Graduate  <br>- 🧠 Currently learning Generative AI & Agentic AI  <br>- 🛠️ Working with Python, FastAPI, React.js,Django,Java and SQL<br>- 🔍 Built Vecem – a platform for generating and sharing vector embeddings  <br>- ⚙️ Interested in building practical, scalable AI tools  <br>- 🌱 Exploring how agents and RAG systems can solve real problems  <br>- 🤝 Open to collaboration and AI-focused roles<br>
+👋 About Me<br><br>- 🎓 AI & ML Graduate  <br>- 🧠 Currently learning Generative AI & Agentic AI  <br>- 🛠️ Working with Python, Machine Learning, FastAPI, React.js,Django,Java and SQL<br>- 🔍 Built Vecem – a platform for generating and sharing vector embeddings  <br>- ⚙️ Interested in building practical, scalable AI tools  <br>- 🌱 Exploring how agents and RAG systems can solve real problems  <br>- 🤝 Open to collaboration and AI-focused roles<br>
 
 
 ## 🌐 Socials:
