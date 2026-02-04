@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Benhur Stephen</h1>
----
 
 ## 🛠️ Technical Skills
 
