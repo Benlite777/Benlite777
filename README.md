@@ -17,7 +17,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="28"> &nbsp;About
+## 👨‍💻 &nbsp;About
 
 AI Engineer at an enterprise company. I build conversational AI agents that are in production and used by real people every day. Most of my time goes into making these agents smarter over time, not just shipping them once and moving on.
 
@@ -25,7 +25,7 @@ I also contribute to open source when I find things that are broken.
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"> &nbsp;What I Work On
+## 🛠️ &nbsp;What I Work On
 
 - Building AI agents that hold conversations, pull from multiple data sources, and solve real problems for users
 - Making agents improve over time through automated feedback and evaluation pipelines
@@ -50,7 +50,7 @@ I also contribute to open source when I find things that are broken.
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"> &nbsp;Tech Stack
+## 💻 &nbsp;Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
