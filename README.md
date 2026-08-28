@@ -17,7 +17,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28"> &nbsp;About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Light%20Skin%20Tone.png" width="28"> &nbsp;About
 
 AI Engineer at an enterprise company. I build conversational AI agents that are in production and used by real people every day. Most of my time goes into making these agents smarter over time, not just shipping them once and moving on.
 
@@ -34,7 +34,7 @@ I also contribute to open source when I find things that are broken.
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28"> &nbsp;Open Source Contributions
+## 🌐 &nbsp;Open Source Contributions
 
 **[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes (`Categorical.map` bool inference, `str.split`/`rsplit`/`partition` with categories)
 
