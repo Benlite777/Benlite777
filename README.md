@@ -36,9 +36,9 @@ I also contribute to open source when I find things that are broken.
 
 ## 🌐 &nbsp;Open Source Contributions
 
-**[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes (`Categorical.map` bool inference, `str.split`/`rsplit`/`partition` with categories)
+**[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes, `str.split`/`rsplit`/`partition` with categories, `merge` NaN-labeled join key deduplication
 
-**[vLLM Semantic Router](https://github.com/vllm-project/semantic-router)** — Balance routing preset documentation, signal evaluation scoping for authz-eligible decisions
+**[vLLM Semantic Router](https://github.com/vllm-project/semantic-router)** — Balance routing preset documentation, signal evaluation scoping, Helm v4 values.yaml fix
 
 **[LangChain](https://github.com/langchain-ai/langchain)** — Token counting fix for reasoning/thinking blocks in multimodal messages
 
