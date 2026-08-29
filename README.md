@@ -44,8 +44,6 @@ I also contribute to open source when I find things that are broken.
 
 **[dbt-core](https://github.com/dbt-labs/dbt-core)** — Parent-then-child tag inheritance order fix
 
-**[mem0](https://github.com/mem0ai/mem0)** — Install-from-source guide for OSS SDKs
-
 **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — Curriculum fixes
 
 <br>
