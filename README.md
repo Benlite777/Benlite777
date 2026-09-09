@@ -42,6 +42,8 @@ I also contribute to open source when I find things that are broken.
 
 **[LangChain](https://github.com/langchain-ai/langchain)** — Token counting fix for reasoning/thinking blocks in multimodal messages
 
+**[dbt-core](https://github.com/dbt-labs/dbt-core)** — Parent-then-child tag inheritance order fix
+
 **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — Curriculum fixes
 
 <br>
