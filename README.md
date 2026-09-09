@@ -36,13 +36,11 @@ I also contribute to open source when I find things that are broken.
 
 ## 🌐 &nbsp;Open Source Contributions
 
-**[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes, `str.split`/`rsplit`/`partition` with categories, `merge` NaN-labeled join key deduplication
+**[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes, `str.split`/`rsplit`/`partition` with categories, `merge` NaN-labeled join key deduplication, RangeIndex Copy-on-Write reference tracking
 
-**[vLLM Semantic Router](https://github.com/vllm-project/semantic-router)** — Balance routing preset documentation, signal evaluation scoping, Helm v4 values.yaml fix
+**[vLLM Semantic Router](https://github.com/vllm-project/semantic-router)** — Balance routing preset documentation, Helm v4 values.yaml fix
 
 **[LangChain](https://github.com/langchain-ai/langchain)** — Token counting fix for reasoning/thinking blocks in multimodal messages
-
-**[dbt-core](https://github.com/dbt-labs/dbt-core)** — Parent-then-child tag inheritance order fix
 
 **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — Curriculum fixes
 
