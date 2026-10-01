@@ -36,7 +36,7 @@ I also contribute to open source when I find things that are broken.
 
 ## 🌐 &nbsp;Open Source Contributions
 
-**[pandas](https://github.com/pandas-dev/pandas)** — Categorical dtype fixes, `str.split`/`rsplit`/`partition` with categories, `merge` NaN-labeled join key deduplication, RangeIndex Copy-on-Write reference tracking
+**[pandas](https://github.com/pandas-dev/pandas)** — `str.split`/`rsplit`/`partition` categorical dtype fix, RangeIndex Copy-on-Write reference tracking
 
 **[vLLM Semantic Router](https://github.com/vllm-project/semantic-router)** — Balance routing preset documentation, Helm v4 values.yaml fix
 
